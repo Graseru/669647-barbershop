@@ -1,10 +1,13 @@
-# Учебный проект «Барбершоп»
+﻿# Учебный проект «Барбершоп»
 
 * Студент: [Сергей Грачёв](https://up.htmlacademy.ru/htmlcss/20/user/669647).
 
----
+Наставник: [
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
+Игорь Плиев](https://up.htmlacademy.ru/htmlcss/20/user/233017)
+
+_
+Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 ---
